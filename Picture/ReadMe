@@ -1,0 +1,6 @@
+Regarding the attached plot:
+  * Each plot is for a different mobile phone user
+  * All call data between June 23 to July 7th (16 days)
+  * Have not filtered out weekends data
+  * Red circle are tower location which has been used by the users at least once during this time period
+  * The diameter of the red circle is proportional to the call counts for that tower
